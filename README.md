@@ -13,7 +13,7 @@ Please access the folders of this repo for specific installation instructions fo
 
 In the future, if your word processor marks something as wrong, right-click it and select “Add to Dictionary” to remove the red underlining.
 
-If you find some terms that you think should be in this dictionary, email style@bishopfox.com and we may add it in a future update. You can also fork your own version of this and augment it if you deal with specialized vocabulary not covered in our list.
+If you find a term that you think should be in this dictionary, email style@bishopfox.com and we may add it in a future update. You can also fork your own version of this and augment it if you deal with specialized vocabulary not covered in our list.
 
 ## Coming Soon
 
