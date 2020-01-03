@@ -15,7 +15,7 @@
 
     ![Custom Dictionaries Menu](../assets/Custom-Dictionaries.png "Custom Dictionaries")
 
-4. Click on any one of the files listed in the Dictionary List, which will ungrey the **New** button. Then click on **New**, and select cyber.dic from its proper location.
+4. Click on any one of the files listed in the Dictionary List, which will ungrey the **New** button. Then click on **Add**, and select cyber.dic from its proper location.
 
 ## Exclusion File Install: [exclude.txt](./exclude.txt)
 
