@@ -2,10 +2,14 @@ OOoUserDict1
 lang: <none>
 type: positive
 ---
-0-day
+0-day's
+0-days
 1080i
 1080p
 1Password
+1Password's
+2600
+2600's
 2FA
 3D
 3DES
@@ -13,46 +17,103 @@ type: positive
 3Scale
 4G
 4chan
+4chan's
+6s
 7-Zip
 8-bit
+8.3 filename
+A/B
 ACE
 ACL
 ACLs
 AD
 AES
 AI
+AI's
+AJAX
+AKS
+ALB
 AMA
+AMI
+AMIs
+AMQP
+AOL
 AP
 API
 APIs
 APT
+APT28
+APTs
 AR
 ARM
+ARN
+ARNs
 ARPANET
+ASA
+ASAs
 ASCII
+ASIC
+ASIC's
+ASL
 ASLR
-ASN.1
+ASP
 ASP.NET
 ASV
+ATM
+ATM's
+ATMs
+ATT&CK'S
 AUP
 AV
+AWK
 AWS
+AWS's
+AWSSnap
+AZ
+AZs
+ActiveMQ
 Agile
+AgileMD
 Airbnb
+Airbnb's
 Aircrack-ng
+Ajax
+AkamaiGhost
 Akana
 Alexa
+Alexa's
 Alibaba
+Alibaba's
 Amazon Prime
 Amazon Web Services
+Amazon's
 Android
+Android's
+AngelList
 AngularJS
 Animoji
+Animojis
 Anonymous
 Ansible
+Ansible's
+Apache
 Apache Server
+Aperture Science
 Apple
+Apple TV
+Apple's
+Arcfour
+Archer
 Arduino
+Arduino's
+Arduinos
+Asgard
+Auth0
+AuthN
+AuthZ
+Azure
+Azure's
+B2B
 BASIC
 BBS
 BCC
@@ -61,12 +122,22 @@ BCC’d
 BCP
 BEC
 BER
+BF
 BGP
 BIA
 BIG-IP
 BIND
+BLESS
 BLOB
+BLOBs
+BMC
+BMC's
+BMCs
+BMO
+BMO's
 BMP
+BOF
+BREACH
 BSD
 BSOD
 BSides
@@ -76,72 +147,167 @@ Base64
 Base64-encoded
 Bash
 BeEF
+BeEF hooking
+Big Brother
+BigQuery
+Bishop
 Bishop Fox
 BitLocker
+BitLocker's
 BitTorrent
+BitTorrent's
 Bitbucket
 Bitcoin
 Black Hat
+Black Mirror
+BlackBerry
+BlackBerry's
+BlackBerrys
+Bleichenbacher
+Bleichenbacher's
+Bloodhound
+Bloodhound's
+Blowfish
+Blowfish's
 Blu-ray
+Blu-rays
+Blue Screen of Death
+BlueKeep
 Bluetooth
+BoF
 Bomgar
 Boolean
+Boolean operators
+Borg
+Boston Dynamics
+Brainfuck
+Brainfuck's
 Bugcrowd
+Bugcrowd's
+Burp
+Burp Collaborator
 Burp Suite
 BuzzFeed
+BuzzFeed's
 C-suite
 C2
+C2 machine
 C3
 CA
+CAD
 CAM
 CAPTCHA
+CAPTCHA's
 CAPTCHAs
+CAs
+CBA
 CBC
 CC
 CCC
+CCDC
+CCPA
 CCTV
+CCTVs
 CCing
 CC’d
 CD
 CD-R
 CD-ROM
+CD-ROMs
 CD-RW
+CD-RWs
+CD-Rs
+CDC
+CDC's
+CDE
+CDE's
+CDEs
 CDMA
 CDN
+CDNs
 CDP
+CDR
+CDs
 CEH
 CERT
 CFAA
 CFO
+CFOs
+CFP
+CFP's
+CFPs
+CG
 CGI
+CHC
+CHD
 CIA
+CIDR
 CIO
+CIO's
+CIOs
 CIS
 CIS 20
 CIS CSC
+CISA
 CISO
+CISO's
+CISOs
 CISSP
+CKEditor
+CLB
 CLI
+CLIs
 CMDB
+CMDBs
 CMS
+CMSs
 CORS
+COVID
+COVID's
+COVID-19
 COW
 CPA
+CPAs
 CPU
+CPUs
+CRAM
+CRAM's
+CRAMs
+CRIME
+CRIME's
 CRM
 CRO
+CRO's
+CROs
 CRUD
+CSC
+CSF
+CSIRT
+CSO
+CSO's
+CSOs
 CSP
 CSPRNG
 CSPRNGs
 CSPs
+CSR
 CSRF
+CSRFs
+CSRs
 CSS
 CSV
+CSVs
 CSWSH
 CTF
+CTF's
+CTFs
+CTIA
+CTIA's
 CTO
+CTO's
+CTOs
 CTR
+CTRs
 CVE
 CVEs
 CVSS
@@ -149,44 +315,82 @@ CW
 CWE
 CYA
 CactusCon
-CatB
+Cambridge Analytica
 CentOS
+ChatOps
+Chatroulette
+Chatroulette's
+Checkmarx
 Chrome
+Chrome's
 Chromecast
+Chromecasted
+Chromecasting
+Chromecasts
 ChrootDirectory
 Cisco
 Clear Web
 Clippy
+CloudFormation
+CloudFormation's
 CloudFront
+CloudFront's
 CloudTrail
+CloudTrail's
+CloudWatch
 Codecademy
+Codecademy's
+Cognito
+Collaborator
+CommonCrypto
+Concur
+Concur's
+Consortium
 Content-Type
+Content-Type header
+Contentful
 Cortana
+Cortana's
+CrackMapExec
+Creative Commons
 Crowbar
-Cryptanalysis
+Crowbar's
+CryptoLockers
 CryptoParty
 Cycript
 Cydia
-C♯
+Cylon
+Cylons
 DAO
 DARPA
 DB
 DBs
 DDE
+DDR
 DDoS
 DEF CON
+DEF CON's
+DEFCON
+DEFCON system
 DELETE
 DES
+DFIR
 DH
+DHE
 DHS
 DHTML
+DICOM
+DICT
 DKIM
 DLL
+DLLs
 DLP
 DM
 DMA
 DMARC
+DMCA
 DMZ
+DMs
 DN
 DNS
 DOB
@@ -194,90 +398,180 @@ DOCTYPE
 DOE
 DOJ
 DOM
+DOM-based
 DOS
 DPAPI
 DRAC
 DREAD
 DRM
 DROWN
+DSS
 DTD
 DVD
+DVD's
 DVDs
 DVR
+DVR's
 DVRs
+Danger Drone
+Dark Net
+Dark Reading
+Databricks
+Day of Shecurity
 Debian
+Decrypter
+Deep Blue
 DeepHack
+DerbyCon
+DerpCon
 DevOps
 DevSecOps
 Diffie
+Diffie-Hellman
+DigDash
+Diggity
+DigitalOcean
+DirBuster
+Dirty COW
+Discord
+Discord's
+Discords
 DoD
 DoS
 Docker
 Dockerfile
+DocumentBuilder
+DomainKeys
+Dropbear
 Dropbox
+Droplet
 Drupal
 DuckDuckGo
+Dufflebag
+Duplex
 Dvorak
+E2E
 E3
 EB
 EBS
+EC2
+ECDHE
+ECR
+EDR
 EFF
+EHR
 EICAR
 EIGRP
+EKS
+ELB
+ELBs
+ELBv2
 ELF
 ELFs
 EMF
+EMP
+EMP's
+EMPs
 EMR
 EOL
 EPT
+EPTs
 ES
+ESXi
 ETA
+ETH
 EULA
+EXSi
+Elastic
 Elastic Stack
 Elasticfox
 Elasticsearch
+Electron
+Electron's
 Engadget
 EternalBlue
+Ethereum
 Ethernet
+Ethernet's
+Evilginx
+Exabeam
+Excel
+Express
 EyeWitness
+Eyeballer
 FAQ
+FAQs
 FBI
+FBI's
 FCC
+FCC's
 FDA
+FDA's
 FDE
 FERPA
-FFEIC
+FFIEC
 FFmpeg
+FIN7
+FIN7's
 FIPS
+FIT
 FOIA
 FPS
 FQDN
+FREAK
+FSF
 FSM
 FTC
+FTC's
+FTL
 FTP
 FUD
 FXL
+FaaS
 FaceTime
+FaceTime's
 Facebook
+Facebook's
 FairPlay
 FinFisher
 FinSpy
+Finger
 Fire TV
 FireWire
+Firefox
+Firefox's
 Fitbit
+Fitbit's
+Fitbits
+Fiverr
+Fiverr's
+FizzBuzz
 Flash
 Flash Player
+Flash's
+ForgePoint
+Fortran
+Fortran's
+Fortune 100
+Fortune 500
+Fox
 Free Software Foundation
-FSF
+Frida
+Frida's
 GB
 GBps
 GC
+GCE
+GCP
 GDPR
 GET
 GETBULK
+GHC
 GHz
 GIF
+GIFs
 GIGO
+GKE
 GLBA
 GLaDOS
 GNU
@@ -285,155 +579,314 @@ GPG
 GPO
 GPS
 GPU
+GPU's
+GPUs
 GUI
+GUI's
 GUID
 GUIDs
 GUIs
 GWT
+GadgetProbe
+GadgetProbe's
+Game Boy
+Game of Life
+GameCube
 Gamergate
 GaymerX
 Gbps
+Ghidra
+Ghidra's
+GhostPort
+GiB
+Girls Who Code
 Git
+GitGot
 GitHub
+GitHub's
 GitLab
+Glassdoor
+Glassdoor's
 Gmail
+Gmail's
 Go
 GoPro
+GoPro's
+GoPros
+Godwin’s
+Godwin’s Law
 Golang
 Google
+Google Assistant
+Google Drive
+Google Duplex
+Google Search
+Google's
 GoogleDiggity
+Gopher
+Gopher's
+Grace Hopper Celebration
 Gradle
+GraphQL
+Groovy
+Grumpy Cat
 Guccifer
-H-1B
 H-Browser
-H.264
-H.264-encoded
+HAA
+HAAs
+HAL 9000
 HAZOP
+HAZOPs
 HCI
+HDMI
 HDTV
+HDTVs
 HEAD
 HID
+HIDS
+HIDS's
+HIDs
 HIPAA
+HITL
 HLS
 HMAC
+HOPE
+HOTP
 HPP
 HSTS
+HT
 HTML
 HTML5
+HTTP
+HTTP methods
+HTTP response splitting
+HTTP statuses
+HTTP verbs
 HTTP.sys
-HTTP/2
 HTTPoxy
+Hack the Box
+Hacker Dojo
+Hacker Summer Camp
 HackerOne
+HackerOne's
 Hadoop
+Halt and Catch Fire
+HashiCorp
+HashiCorp's
 Heartbleed
 Hellman
 HomePod
 Hopper
 Hping
 HttpOnly
+Hunt the Wumpus
 I2P
 IAM
+IANA
 IANAL
+IANL
+IC
 ICE
 ICMP
 ICO
+ICOs
 ID
 IDE
 IDEs
 IDOR
+IDORs
 IDS
+IDSes
 IDs
 IE
+IEC
+IETF
+IETF's
 IFTTT
+IIRC
 IIS
-IIS Express
 IIoT
 IKE
 IKEv1
 IKEv2
 ILSpy
+IM
+IOA
+IOC
+IP
+IPC
 IPMI
 IPO
+IPO's
 IPOs
 IPP
 IPS
 IPT
+IPTs
+IPs
 IPsec
+IPv4
+IPv6
 IR
 IRC
+IRL
+IRT
 ISAC
 ISO
-ISO/IEC 27001
 ISP
 ISPs
 IT
+IT's
 IaaS
+IdP
+ImageMagick
 Imgur
+Imgur's
+Impacket
+Impacket's
 Instagram
+Instagram's
+Intel
+Intel's
 Internet Explorer
+Internet of Things
 Interpol
+Interpol's
+IoA
+IoC
 IoT
+IoT's
+JAR
 JBoss
 JCE
+JIT
+JMS
 JMX
+JNLP
 JPEG
+JPEGs
 JPG
+JPGs
 JS
 JSON
 JSONP
 JSP
 JVM
+JVMs
 JWT
 JWTs
+JabbR
+Jackson
+Jackson serialization
 Java
+Java EE
 JavaScript
 Jenkins
 Jira
 Julia
+Jupyter
 KA
 KB
 KC
+KDF
+KDFs
+KID
 KMS
+KMSI
 KMaaS
 KRACK
 Kali
 Kali Linux
 Kaspersky
+Kaspersky Labs
 KeePass
+Kerberoast
+Kerberoasting
+Kerberos
+Keychain
 Keywhiz
 KiB
 Kickstarter
+Kickstarter's
+Kickstarters
+Kiwicon
+Kotlin
+Kotlin's
 Kubernetes
 L10n
 LAMP
 LAN
+LAN Turtle
+LAN's
+LANs
 LARP
+LARPs
 LCD
 LCDs
 LDAP
+LDAP Admin
 LED
 LEDs
 LFI
+LFIs
+LGBTQIA
+LINE
+LISP
+LISP's
 LISTSERV
+LISTSERV's
+LLDP
 LLMNR
 LM
 LMS
+LNK
 LOIC
+LOICs
+LOL
+LSA
 LSASS
 LTE
 LTS
 LaTeX
+Labo
 LanMan
 LastPass
+Layer 1
+Layer 2
 Layer 3
+Layer 4
+Layer 5
+Leet
+Leetspeak
+Let’s Encrypt
+LiNK
+LibreOffice
 Lightning
+Lightning cables
+Lightspeed
 Like
+Line
 LinkedIn
+LinkedIn's
+Linus
 Linux
+Linux's
+Logjam
+Lucius
+Lucius Fox
 Lucky Thirteen
-M.2
+Lyft
+Lyft's
+Lyfts
+MAA
+MAAs
 MAC
+MAM
+MAN
+MANs
 MB
+MBean
+MBeans
 MBps
 MD5
 MFA
@@ -441,99 +894,184 @@ MHz
 MIDI
 MIME
 MINIX
+MITRE
+MITRE's
+MKV
+MKVs
 ML
+MLaaS
 MOTD
 MP3
+MP3s
 MP4
+MP4s
+MPEG
+MPEG-1
+MPEGs
+MPV
+MQTT
 MS
 MS SQL
 MSA
 MSDE
 MSFvenom
 MSI
+MSP
+MSP's
+MSPs
+MSS
+MSSQL
+MTurk
 MVC
-Mac OS X
+Mac OS X 
 MacBook
+Macbooks
+Macs
 MailChimp
+Maker Faire
 Malbolge
 Man in the Middle
 Man-in-the-Browser
+Man-in-the-Middle
 MariaDB
 Markdown
+Markov
+Martin
+Martin Bishop
+Master Control Program
+Matrix
+Matroska
 Mbps
+Mechanical Turk
 Meltdown
 Memcache
 Memcached
+Mercurial
+Mercurial's
 Metasploit
 Meterpreter
 MiB
+Microsoft
+Microsoft Security Bulletin
+Microsoft's
 Mimikatz
+Mirai
+Mirai's
 MitB
 MitM
+MoCA
+Moore’s
 Moore’s Law
+Mozilla
 Mozilla Firefox
+Mr. Robot
 Mustache
 MySQL
 NAC
+NACL
+NACLs
 NAND
 NASDAQ
 NBNS
 NDA
 NETGEAR
 NFS
+NIDS
 NIST
 NLA
 NLP
 NOC
+NOMORE
 NSA
 NSFL
 NSFW
+NSG
+NSGs
 NTLM
 NTLMv2
+NTP
 NULL
 NVD
+NaaS
 Nasdaq
+Ncat
 NetBIOS
+NetWars
 Netcat
+Netflix
+Netflix's
 Netgear
+Netrunner
 Neuromancer
 NfSpy
 Nginx
 Nmap
 Node.js
 NotPetya
+NsLookup
+NsLookup's
 OAuth
 OBOE
+OCI
+OCI's
 OCR
+ODT
 OData
 OEM
+OFX
 OGNL
+OK
+OKR
+OKRs
 OOB
 OOP
 OPSEC
+ORM
 OS
+OS X
 OSCP
 OSGi
 OSINT
+OSes
 OT
 OTA
+OTG
+OTG's
 OTP
 OWA
 OWASP
+OWASP Top 10
 OWASP Zed Attack Proxy
+OWASP's
 Objective-C
 Oculus
-Oculus Rift
+OffSec
 Office 365
+Okta
+On-The-Go
+OpManager
 OpManager Decrypter
+OpSec
+OpenAPI
 OpenID
+OpenLDAP
+OpenResty
+OpenSSH
+OpenSSH's
 OpenVPN
+P2P
+PABX
+PABX's
 PAN
-PAN truncation
+PAN truncation 
+PAN's
+PANs
 PASTA
 PATCH
 PAX
+PB
 PBKDF2
+PC
 PCB
 PCI
 PCI DSS
@@ -541,61 +1079,102 @@ PCIe
 PCRE
 PDB
 PDF
+PDQ
+PDQ Deploy
+PEBKAC
 PERSEC
 PGP
 PHI
 PHP
-PHP magic methods
+PHP magic methods 
 PHR
 PID
 PII
 PIN
 PKI
-PL/SQL
 PLD
 PO
 POODLE
 POP
 POST
 PRNG
+PRNG's
 PRNGs
+PS2
+PS3
+PS4
+PS5
+PSIRT
 PSK
 PSR
+PSRs
+PTP
 PUSH
 PUT
 PaaS
+Pascal
 Pastebin
+Patreon
 PayPal
+PayPal's
 Perl
 Petya
 Photoshop
+Pi
+Pis
 Piwik
 PlayStation
 PoC
+PoC's
+PoCs
 PoE
+Pornhub
+Pornhub's
+PortSwigger
+Portal
 PostgreSQL
 Postgres
 PowerBook
 PowerPoint
-Pretty Theft module
+PowerShell
+PowerShell's
+Pretty Theft
+Prime
 ProcDump
 Procmon
 ProtonMail
 PuTTY
 PubNub
+Pwn Plug
+PwnPlug
+Pwnie
+PyCon
 Python
+Q1
+Q2
+Q3
+Q4
 QA
+QAnon
+QC
 QLess
 QR
+QR code
 QSA
+QUIC
+QUIC's
 QWERTY
+Queercon
 QuickTime
+QuickTime's
 R
-R2-D2
 RAM
 RAR
 RAT
+RAT's
+RATs
 RBA
+RBAC
 RC4
 RC4 NOMORE
 RCE
@@ -607,257 +1186,564 @@ REST
 RESTful
 RFB
 RFC
+RFCs
 RFID
 RFP
+RFPs
+RHEL
 RISC
 RMI
+RMIScout
+RMIScout's
+RNG
 RNGs
 ROBOT
 ROP
 RPC
+RPG
+RPG's
+RPGs
 RSA
+RSA's
 RSS
 RT
+RT'd
 RTF
+RTFM
+RTFs
+RTMFP
+RTMFP's
+RTU
 RTs
-RT’d
 RankBrain
+Raspberry
 Raspberry Pi
+Raspberry Pi's
+Raspberry Pis
 Red Hat
+Red Shirt
 RedLock
 RedSnarf
+RedTube
+RedTube's
 Reddit
+Reddit's
 Redis
+Redshift
 Referer
+Registry
 Rickmote
 Rickmote Controller
+Rift
 RoR
+RoR's
 Rockyou
 Rockyou.text
 Root the Box
 Rubber Ducky
+Rubius
 Ruby
-S/MIME
+RubyGem
+RubyGems
+Rust
+Rust's
+Ryuk
+Ryuk's
 S3
-S3 buckets
+S3 bucket
+S3 buckets 
 SAM
-SAM file
 SAML
+SAML's
 SANS
+SAQ
 SASL
 SCADA
-SCCM
+SCP
 SCSI
+SCSV
 SDK
+SDK's
+SDKs
+SDL
 SDLC
+SDLC's
+SDLCs
 SDN
+SE
 SEO
+SFTP
+SG
+SGs
 SHA
 SHA-1
+SHA-2
 SHA-256
+SHA-3
+SHA-512
 SHDH
 SIEM
 SIM
 SIP
+SIR
 SIR Plan
+SKU
+SKU's
+SKUs
 SLA
+SLA's
 SLAAC
 SLAs
 SLO
+SLO's
+SLOs
 SMB
+SME
+SME's
 SMEs
+SMI
+SMM
 SMS
 SMTP
+SMTP's
 SNMP
+SNMP's
 SNMPwalk
+SNMPwalk's
 SNR
+SNS
 SOA
 SOAP
+SOAP's
+SOC
+SOC's
 SOCKS
 SOP
+SOPs
+SOQL
 SOW
+SOW's
+SOWs
+SP
 SPF
+SPN
+SPN's
+SPNs
 SQL
+SQL's
 SQLi
+SQS
 SSD
+SSD's
 SSDLC
+SSDLC's
+SSDLCs
+SSDs
 SSH
 SSHD
+SSHD's
+SSHDs
 SSI
 SSID
+SSID's
+SSIDs
 SSL
-SSL Labs
-SSL/TLS
+SSLScan
+SSLv3
 SSN
+SSN's
 SSNs
 SSO
+SSOs
 SSP
 SSRF
+SSRFs
+STB
 STEAM
 STEM
 STIX
 STP
+STP's
 SVN
+SVN's
+SWD
 SWF
+SWOT
 SaaS
 Salesforce
+Salesforce's
 Scala
+Scala's
 Schannel
+Scorpion
+Scrypt
+Scunthorpe
 SearchDiggity
 Security Monkey
 Security Without Borders
 SegWit
 Segway
+Segway's
+Segways
 SemVer
+Semantic
 Semantic Versioning
 ServerSignature
 ServerTokens
 SharePoint
+Shed
 Shellshock
+Shellshock's
+ShmooCon
 Shodan
+Shodan's
+Showdown
+Showdown's
 Signal
+Signal's
+Silicon Valley
+Silk Road
 Siri
+Siri's
 Sitecore
+Sitecore's
 Six Sigma
 Skynet
+Skype
+Skype's
 Slack
+Slack's
+Smalltalk
+Smalltalk's
 SmashBot
+SmogCloud
 Snapchat
+Snapchat's
 Snyk
+Snyk's
 SoC
+SoC's
+Social Security
 Social Security number
 Sofacy
+Sofacy's
 SomaFM
+Sonos
 SpEL
+SpEL's
 SpaceX
+SpaceX's
 Spectre
+Spectre's
+SpellCheck
 Splunk
+Splunk's
 SpoofCheck
+SpoofCheck's
 Spring Framework
 Square
+Square Cash
 Squarespace
+Squarespace's
 Squid
+Squid's
+Stack
+Stackdriver
+Stadia
+Stadia's
+StartPage
+StartPage's
 Steam
+Steam's
 Stingray
+Stingray's
+Streisand
 Stuxnet
+Stuxnet's
+Summercon
+Summercon's
 SuperHappyDevHouse
+SuperHappyDevHouse's
 Swagger
+Swagger's
 Sweet32
+Switch
 Symfony
+Symfony's
+Sysinternals
 T-POC
+T-POC's
 T-SQL
+T-SQL's
+TARDIS
+TASBot
+TASBot's
+TB
 TCP
-TCP/IP
+TCR
+TCRs
+TED
 TED Talks
 TEE
 TFA
+TFS
+TFS's
+THOTCON
+THOTCON's
+TIL
 TKIP
+TKIP's
+TLA
+TLAs
 TLD
+TLD's
 TLDs
 TLS
 TOCTOU
+TOFU
 TOTP
+TOTP's
+TOTPs
 TPB
+TSA
+TSA's
 TTD
 TTP
+TTP's
 TTPs
 TW
 Tastic
-Tastic RFID Thief
+Tastic RFID Thief 
 Tectia
 Tectia SSH
 Telemetry
 Telnet
+Telnet's
+Terminal
+Tesla
+Tesla's
+Teslas
+The Cathedral and the Bazaar
+The Diana Initiative
+The IT Crowd
+The Internet Archive
+The Onion
+The Pirate Bay
+The Pwnie Awards
+The Social Network
+The Streisand Effect
+The Three Laws of Robotics
+The Unreal Engine
+Threatpost
 Throwable
+TinyMCE
+TinyMCE's
+ToorCon
 Tor
+Tor's
 Torx
+Transmetropolitan
 TrueCrypt
+TrueCrypt's
+TruffleHog
+TruffleHog's
 Tumblr
 TunnelBear
+TunnelBear's
 Turing
 Turla
+Turla's
+Twitch
 Twitter
+Twitter's
 Twitterstorm
+U2F
+UAC
+UAT
 UDP
+UDP's
+UGT
 UI
+UI's
+UIs
 UNIX
+UPC
+UPC's
+UPCs
+UPN
+UPN's
+UPNs
 UPS
 URI
+URI's
 URIs
 URL
-URL encoding
+URL encoding 
+URL's
 URL-encoded
 URL-shortening
 URLs
 URN
 URNs
+US-CERT
 USB
-USB Rubber Ducky
+USB-C
 USBs
 USDZ
 UTF
+UUID
 UX
+Uber
+Uber's
+Ubuntu
+Ubuntu's
+Unicode
 Unicode Consortium
 Unix
 Untwister
+Untwister's
 UrlScan
+UrlScan's
 Usenet
+Usenet's
+UserAccountControl
+VB.NET
+VB.NET's
+VBA
 VBScript
+VBScript's
+VC
 VDI
 VGA
 VLAN
+VLAN's
+VLANs
 VLCM
 VM
+VM's
+VMs
 VMware
+VMware's
 VNC
+VNet
+VNets
 VPC
+VPC's
+VPCs
 VPN
+VPN's
+VPNs
 VR
 VSA
+Vagrant
+Vagrant's
 Vault
 Venmo
+Venmo's
 VeraCrypt
+VeraCrypt's
+Versioning
 Vim
+Vim's
 Vimeo
+Vimeo's
+Viptela
+Vista
 VoIP
 Vuforia
+Vuforia's
+VulnHub
+VulnHub's
+W3C
+W3C's
 WAF
+WAF's
 WAFs
 WAMP
 WAN
+WAN's
+WANs
 WEP
+WEP's
 WHOIS
 WIDS
+WIDS's
+WIMS
+WIMS's
+WISP
+WLAN
+WLAN's
+WLANs
 WOPR
 WPA
 WPA2
+WPA3
+WPAD
+WPScan
+WPT
+WPTs
 WSDL
+WSGI
+WSSiP
 WWDC
+WWDC's
 WYSIWYG
 WampServer
 WannaCry
 WarGames
 Watson
+WayneCorp
 WeChat
+WeChat's
 Web 2.0
+WebAssembly
 WebDAV
+WebKit
+WebQA
 WebSocket
+WebSocket's
+WebSockets
 WebSphere
+WebSphere's
 WebView
+WebView's
+Webmin
 Weibo
+Weibo's
 Wget
 WhatsApp
+WhatsApp's
 WhiteHat
+WhiteHat's
 Wi-Fi
+Wi-Fi's
+WiFi Pineapple
+WiGLE
+Wifite
+Wii
+Wii U
 WikiLeaks
 Wikipedia
+Wikipedia's
+WildFly
+WildFly's
 WinSCP
+WinSCP's
+Windows
 Windows Registry
 Wine
 Wireshark
+Wireshark's
 WordPress
-X.509
+WordPress's
+Wordnik
+Write the Docs
+X-ray
+X-rays
+XFF
 XHR
+XKeyscore
+XKeyscore's
 XLSX
 XML
 XMLHttpRequest
@@ -865,56 +1751,147 @@ XOR
 XSS
 XXE
 Xbox
+Xbox's
+Xboxes
 Xpp3
+YACC
 YAML
+YAML's
 YAWAST
+YAWAST's
 YML
 YUM
+YUM's
+Yemen Cyber Army
 YouTube
+YouTube's
+YouTuber
+YouTubers
 YubiKey
+YubiKey's
+YubiKeys
+Yubico
 ZIP
+ZIP's
+ZIPs
+ZTN
+ZTN's
+ZTNs
+Zed
 ZipDiggity
+Zoom
+Zoom's
+Zoombomb
+Zoombombed
+Zoombombing
+Zscaler
 a11y
+accessible
 ad blocking
+ad hoc
 ad-blocking
 adb
 add-on
 admin
 admins
+adversaries
+adversary
+agnostic
 air-gapped
+airline
+airlines
+algorithm
+allowlist
+allowlisting
+allowlists
+alphanumeric
+analog hole
+analog loophole
+android
 angle brackets
+anonymization
+anonymous
 ansible
+ansibles
 anti-malware
 antivirus
+antiviruses
 app
+app's
 applet
 applets
+application
 apps
+artificial ignorance
+artificial intelligence
+asset
 at-rest
+atomic
+atomicity
 attacker-controlled
 attacker-owned
 audio conferencing
+audiovisual
 auth
+authentication
 auto-renew
+auto-renewal
+auto-renewed
+auto-renewing
+auto-renews
 autocomplete
+autocompleted
+autocompletes
 autocorrect
+autocorrected
+autocorrecting
+autocorrects
 autofill
+autofilled
+autofills
+automation
 autopilot
+autopopulate
+autopopulated
+autopopulating
+autopoulates
+availability
+avatar
 back-end
 backdoor
+backdoored
+backdooring
 backdoors
+backport
 backported
 backporting
+backports
 backslash
 backslashes
 backtrace
 backtraced
 backtraces
+backup
 badput
 bandwidth
+bank drop
 bank drops
+bar
+bar mitzvah
+barcode
+baseline
+bastion
+bastion host
 bcrypt
+behavior
+beta
 big-endian
+billion laughs
+binary
+birds of a feather
+birthday
+bit
+bit rot
 bit-flipped
 bit-flipping
 bitcoin
@@ -923,190 +1900,386 @@ bitmap
 bitmaps
 bitrate
 bitrates
+bitsquat
+bitsquats
+bitsquatted
 bitsquatting
 bitstream
+bitstreams
 black box
 black hat
+black hats
 black market
+black markets
 black-box
+black-box testing
 blacklist
 blacklisted
 blacklisting
 blacklists
+bleeding edge
 bloatware
+blob
+blobs
 block chaining
 blockchain
+blockchained
+blockchains
 blocklist
+blocklist's
 blocklisted
 blocklisting
+blocklists
+blog
 blogroll
+blogrolls
 blue team
 blue teaming
+blue-screened
+body cam
+body camera
 boot chain
+boot chains
 boot time
+boot up
+bootloader
+bootloader's
+bootloaders
 bot
 botnet
 botnets
 bots
+branch
+breach
+breadcrumb
+breadcrumb trail
 breadcrumbs
 breakpoint
 breakpoints
+brick
 brick-and-mortar
+bricked
+bricking
+brownfield
 browsable
+browser
 brute-force
 brute-forced
+brute-forces
 brute-forcing
+buffer
+buffer overflow
+bug bounty
 built-in
 bullet point
 bullet time
 bulleted
+bus
+business impact analysis
+busting
+bypass
 byproduct
 byproducts
 bytecode
+bytes
+cDc
 cURL
+cache
+cache busting
+cache poisoning
+calc.exe
 callback
+callback hell
 callbacks
+canary
+canary account
 canonicalization
 canonicalize
 canonicalized
+canonicalizes
 canonicalizing
+cardholder
+cardholders
 case-by-case
 case-sensitive
 cash-out
+cash-out guide
+castle
+castled
+castles
+castling
+catch
 cert
+certificate
 certs
+chaining
 challenge-response
 changelog
+changelogs
+charset
+charset's
+charsets
+chatbot
+chatbot's
+chatbots
 chatroom
 chatrooms
 chattr
 checkbox
 checkboxes
 checkmark
+checkmarks
 checkout
+checkouts
 checksum
 checksums
+chipset
+chipset's
+chipsets
 chmod
 chroot
+chroot directory
+chroot jail
+cipher
+cipher suite
 ciphertext
 ciphertexts
+circuit
+circuitry
+class
+classes
+classless
+classpath
+classpaths
 clear web
 cleartext
 clickbait
+clickbaited
 clickbaiting
+clickbaits
 clickjacking
 clickthrough
 clickthroughs
 client-side
 clip art
+closed caption
 closed-caption
 cloud computing
 cluster
+clusters
 co-creator
+co-creators
+code
+code name
 code path
 code paths
 code shrinking
 codebase
 codebases
 codec
+codecs
+coins
 cold call
 cold storage
 cold wallet
 cold-call
+cold-called
+cold-calling
+collision
+command and control
 command line
 command-line
 commercial-free
+commodity hardware
 company-wide
 compensating controls
+compile
+compiler
 compliance framework
+computational
 computational linguistics
 computer vision
+concat
+concatenate
+conferencing
+confidentiality
 config
+config.json
 configs
 configuration drift
 connect-back
+connect-back shell
+constant's
+constants
 containerization
 containerize
 containerized
+containerizes
+containerizing
+content
 content injection
 content spoofing
 content type
 cookie poisoning
-cookie security
+cookie security 
 cooperate
 coordinate
 copycat
+copypasta
+coronavirus
 corporate espionage
+corrupted
+cost-benefit
+cost-benefit analysis
 countermeasure
+countermeasures
 coworker
 coworking
+coworking space
+crack
+crawl
+crawler
+crawlers
+cred
+credential
+credential stuffing
+credentials
+creds
+crimeware
+critical
 criticality
 cron
 cross-platform
+cross-reference
+cross-referenced
+cross-referencing
+cross-site
 cross-site scripting
 crowdfund
 crowdfunded
 crowdfunding
+crowdfunds
 crowdsource
 crowdsourced
+crowdsources
 crowdsourcing
+cryptanalysis
 cryptanalytic
 crypto
+crypto mining
+cryptocurrencies
 cryptocurrency
+cryptographic
 cryptographically
+cryptos
+currency
+cursor
 custom-written
 cutting-edge
+cyber.dic
 cyberpunk
 cybersecurity
 cyborg
 daemon
 daemons
 daisy-chain
+daisy-chained
+daisy-chaining
+daisy-chains
 dark net
-data center
+data center 
 data files
 data handling
 data set
 data type
 data-only
-data://
 database
 databases
 datetime
 day-to-day
 dba
 dead code
+dead drop
 dead drops
+deauthenticate
+deauthenticated
+deauthenticates
+deauthenticating
+deauthentication
 debuggable
 decap
 decapped
+decapping
+declare
 decommed
 decompilation
 decompile
 decompiled
+decompiles
 decompiling
-deep learning
+deep learning 
 deep-dive
 deepfake
 deepfakes
+deface
 defense-in-depth
 denial-of-service
+deny any any
+denylist
+denylisting
+denylists
+deobfuscate
+deobfuscated
+deobfuscating
+deobfuscation
+dependencies
+dependency
+dependency hell
 deprecate
 deprecated
+deprecates
+deprecating
 deserialization
 deserialize
 deserialized
+deserializes
 deserializing
 desolder
+desoldered
 desoldering
+desolders
+deus ex machina
 dev
+devs
 dial up
 dial-up
 dialog box
+dictionary-based
 diff
+diffed
+diffs
 digital certificate
 dingbat
+dingbats
+directory
 directory traversal
+disambiguation
+disclosed
+disclosure
+discrepancy
+disrupt
+disruptive
+disseminate
+distro
+distro's
+distros
+doc
+doge
+dogfood
+dogfooded
+dogfooding
+dogfoods
+domain
 domain squatting
 domain-joined
 dongle
@@ -1114,60 +2287,118 @@ dongles
 dorking
 dot-com
 dot-file
+dot-files
+double-check
 double-click
 double-clicked
 double-clicking
 double-clicks
+downgrade
 downgrade attack
 downtime
 downvote
 downvoted
 downvotes
+downvoting
+dox
+doxed
+doxing
 dpi
 drag-and-drop
 drop-down
 drop-downs
+dump
+dylib
+dyno
+dyno's
+dynos
+e-book
 e-commerce
-e.g.
+e2e
 eBay
 ePHI
 ePub
+eZ
+east-west
+eavesdrop
+ebook
+ebook's
+ebooks
+echo
 echo request
 edge case
+egress
 egress filtering
-egress testing
+egress testing 
 elevation of privileges
+email
 email spoofing
+embarrassingly
+embedded
 embedded devices
 emoji
 emojis
 emoticon
 emoticons
+emulator
+encoding
 encrypter
+encrypters
+encryption
 encryptor
+encryptors
 end user
+end-entity
 end-of-life
+end-to-end
 end-to-end secure boot chain
 end-user
 endpoint
+endpoints
+enterprise
 enterprise security
+entity
 entity encoding
+enumerate
+enumeration
+environment
+espionage
+esports
+etcd
+evil twin 
 evil twin attack
 exabyte
 exabytes
+except
 executable
 executables
+execute
 exfiltrate
 exfiltrated
+exfiltrates
 exfiltrating
-exploit chain
-exploit video
+exploit
+exploit chain 
+exploit video 
+exposed
 eye-tracking
 facepalm
+facepalmed
+facepalming
+facepalms
 failover
 false flag
 false positive
-file paths
+fandom
+fast-travel
+fast-traveled
+fast-traveling
+fast-travels
+fat-finger
+fat-fingered
+fat-fingering
+fat-fingers
+file paths 
 file share
 file size
 file stores
@@ -1176,82 +2407,152 @@ filename
 filenames
 filesystem
 filesystems
+filtering
+fingerprint
+fingerprinted
+fingerprinting
+fingerprints
 firewall
 firewalls
 fixed-width
+fizz buzz
 flash memory
 flat files
+flatscreen
+flow
 flow logging
 flow logs
 flowchart
+follow up
 follow-up
+foo
+foobar
 footprinting
+for loop
 force-browse
 force-browsed
+force-browses
 force-browsing
 forceful browsing
+forensic
 forensic watermark
+fork
+forked
+forking
 formula
 formulas
+four-way
 four-way handshake
 fps
 frame busting
-frame rate
+frame rate 
 frameable
 framework
 frameworks
 free-form
+freemium
 front-end
 fsociety
+full-stack
 fullz
+function
+functionality
 future-proof
+future-proofed
 future-proofing
+fuzz
 fuzz testing harness
 fuzzed
 fuzzer
+fuzzes
 fuzzing
-game jam
+gRPC
+game jam 
+gateway
 gems
 geocache
+geocached
+geocaches
 geocaching
+geofence
+geofenced
+geofences
+geofencing
 geolocation
+getID3
 glob
 globbed
 globbing
+globs
 goodput
 google
 googled
+googles
 googling
+graceful
+gray-box
 gray-box testing
 grayed out
+grayscale
+greenfield
 grep
+grepped
+grepping
+greps
 greylisting
 grok
 groupthink
+hMailServer
+hack
 hackathon
 hacker
 hacktivist
 hacktivists
+ham radio
+hamburger
+hamburger button
+handheld
+handle
+hang
 haptic
+haptics
+hard drive
 hard-coded
 hard-copy
 hardcode
 hardcoded
+hardcoding
+harden
+hash
 hash collision
 hash functions
 hashcat
 hashed
+hashes
+hashing
 hashtag
 hashtagged
+hashtagging
 hashtags
+headcount
+headdesk
+headers
+headless
+headless browser
 healthcare
 heap-based
+heat map
+hex
 hex-encoded
+hexalobular
 high-impact
 high-performance
+high-res
 high-speed
 high-value
 highest-severity
+hijack
+hijacking
 homepage
 homepages
 homescreen
@@ -1262,62 +2563,130 @@ honeypot
 honeypots
 honeytoken
 honeytokens
+hook
+hooked
+hooking
 host-hardening
 hostname
 hostnames
+hosts
+hot wallet
 hot-swap
+hot-swapped
+hot-swapping
+hot-swaps
 hotfix
 hotfixes
 hotlink
 hotlinking
+hotlinks
 hotspot
+hotspots
 hotwire
+hotwired
+hotwires
+hotwiring
+hover
+hoverboard
+hovertext
 how-to
+how-tos
+human-in-the-loop
+humblebrag
+hyperdrive
+hyperdrives
 hyperspace
 hypertext
 hyperthreading
+hypervisor
+hypervisor's
+hypervisors
 i18n
 iDRAC
 iLO
 iOS
+iOSes
 iPad
+iPad's
+iPads
 iPhone
+iPhone's
+iPhones
 iPod
 idempotence
 idempotent
 iframe
+iframe's
+iframes
 implementable
+implicit
 in-band
 in-game
 in-house
 in-scope
 inbound
+index
 indexes
-information superhighway
+indices
+infiltrate
+influencer
+info-sec
+infodump
+information superhighway 
 infosec
+ingestor
+ingestors
 init
 inline
+inode
+inodes
+input
+insecure
+insource
+insourced
 insourcing
+inter-process
+inter-process communication
+interdiction
+interface
 internet
+internets
+intranet
+intranet's
+intranets
 invalidated
 iptables
 jQuery
+jack
 jailbreak
+jailbreaking
+jailbreaks
+jailbroke
 jailbroken
 juice jacking
 jumpbox
+jumpbox's
+jumpboxes
 k8s
 kHz
 keepalive
 keepalives
-kernel panic
+kernel
+kernel panic 
+kerning
+kernings
 key pair
+key pairs
+key-value
 keychain
+keychains
 keygen
+keygen's
 keygens
 keylogger
 keylogging
 keysigning
+keysmash
 keyspace
 keystore
 keystores
@@ -1325,81 +2694,199 @@ keystroke
 keystrokes
 keyword
 keywords
+kid
+kill
 kludge
 kluge
+kubelet
+kubelets
+l33tsp34k
+larped
 larping
+larps
+leaf certificate
+leak
+leaked
+leaking
+leetspeak
+legacy
+letmein
+leverage
+leveraged
 lifecycle
+lifecycle's
+lifecycles
+lifespan
+light wallet
+lightspeed
+lightwallet
+lightwallets
+likelihood
 linefeed
+linefeed characters
+linguistics
+link rot
+linked list
+listable
 listicle
+listicle's
 listicles
 listserv
+listserv's
+listservs
+literal
+literal's
+literals
 little-endian
 live-tweet
+live-tweeted
 live-tweeting
+live-tweets
 livestream
 livestreamed
+livestreamer
 livestreaming
 livestreams
 load balancing
 load-balance
 load-balanced
+load-balances
 localStorage
 localhost
 lock picking
 lock screen
 lockout
-log files
+lockout policy
+lockouts
+log file
+log files 
 log in
-log out
+log out 
 logged-in
 login
+logins
 logout
+lol
+long's
+longs
+look up
 lookahead
+lookahead parameter
 lookup
 lookups
+lossless
+lossless compression
 lossy
+lossy compression
+low-res
+lowercase
 macOS
 macOS-based
+machina
 machine learning
+macro
+macro's
+macros
 mailbomb
 mailbombed
+mailbombing
+mailbombs
 mainframe
 mainframes
+malformed
 malware
+mapping
+marketplace
+markup
 mass assignment
+matrices
+matrix
 meatspace
-message board
+media
+meme
+message board  
+metacharacter
+metacharacter's
+metacharacters
 metadata
+methodology
+microblog
+microblogged
+microblogger
 microblogging
+microprocessor
+microprocessors
 microsegmentation
+microsegmentations
 microservice
+microservice's
+microservices
+military-grade
+military-grade encryption
+milkshake duck
+millennial
+minification
+minified
+minifies
+minify
+minifying
+mirror site
 mirroring
+mission-critical
+mitigate
+mitigation
+mitzvah
 mo-cap
+mock-up
+mod
+modded
+modding
+mods
+moonshot
 motion-activated
 mouse over
 mouseover
+mousepad
 ms
 multi-factor
+multimedia
+multimeter
+multimeters
+multitask
+multitasked
+multitasking
+multitasks
 nameserver
+nameservers
 nanotechnology
 nc
 need-to-know
 netblock
+neutrality
 next-gen
 ngrep
+nobody
+node
+non-disclosure
 nonce
 nonces
 nonprofit
+north-south
 nosniff
-null byte character
-null byte injection
+npm
+null
+null byte 
+obfuscation
 oclHashcat
-off-by-one error
+off-by-one
 off-chain
 off-site
+offboard
+offboarded
 offboarding
 offline
 offscreen
+offsec
 on line
 on-air
 on-demand
@@ -1411,123 +2898,220 @@ one-time
 ongoing
 online
 onscreen
+open access
+open source
+operator
 opt-in
 opt-out
+orphan
+orphaned
 out-of-band
 out-of-date
 out-of-scope
 outbound
 outbox
 outbrief
+outbriefs
 outdated
 outgoing
 outsource
 outsourced
 outsourcing
-p.m.
+overflow
+overhedging
 page-hijacking
 parameterize
 parameterized
-parameterized queries
+parameterized queries 
+parameterizes
+parameterizing
+parse
 parser
+parsers
 pass-the-hash
 passphrase
 passphrases
+password
+password mullet
 password-protected
+passwords
 pastebin
+patch
 patch cycle
-path traversal
+path traversal 
 payload
 paywall
+paywalls
 peer-to-peer
-pen testing
+pen testing  
 peripherals
+persistence
+persistent
 pfSense
 phishing
+photobomb
+photobombed
+photobombing
+photobombs
 photoshop
 photoshopped
 photoshopping
+photoshops
+phreak
+phreakable
+phreaked
+phreaker
+phreakers
+phreaking
+phreaks
+pickle
+pickled
+pickling
 ping
+pinged
+pinging
+pings
 plain text
 plaintext
 playbook
 playlist
-plug in
+plug in 
+plugin
+plugins
+podcasts
+poisoning
 pop-up
+port
 port scan
 portal
+ports
+post
 post-apocalyptic
 post-exploitation
-power cycle
-power user
+power cycle 
+power user 
+pre-signed
 preflight
+preflighted
+preflighting
+preflights
 preimage
+preimages
 prepared statements
+preset
+presets
 pretexting
+primitives
 printout
+printouts
 privacy protection
 privesc
-privilege escalation
+privilege escalation 
 prod
 proof-of-concept
+provision
+proxied
+proxies
+proxy
 proxying
-public address spaces
+public address spaces 
 public key
 public-facing
-publicly known
-purple team
+publicly known 
+purple team 
+purpose-built
 pwdump
+pwn
+pwned
+pwning
+pwns
 px
-query string
-race condition
-rainbow table
+query
+query string 
+queue
+race condition 
+rainbow table 
 ransomware
-rate limiting
+rate limiting 
 rate-limit
 rcp
 reCAPTCHA
 reCAPTCHAs
 read-only
-read/write
 readme
+readmes
 real-time
 red team
-red teaming
+red teaming 
 redditor
 redditors
+reflect
+reflected
 regex
+registry
 registry hive
+regression
+remediated
+remediation
 remote access
 remote desktop
 replay attacks
+replicants
 repo
+repo's
 reportlet
 reportlets
+repos
 repository
 reproducible
 response-splitting
+restart
+retcon
+retconned
+retconning
+retcons
 retest
 retweet
+retweeted
+retweeting
+retweets
 reuse
-reverse engineering
-reverse proxy
+reverse engineering 
+reverse proxy 
 reverse-engineer
+reverse-engineered
+reverse-engineering
+reverser
+reversers
 rexec
 rickroll
+rickrolled
 rickrolling
+rickrolls
 ride-share
 ride-sharing
 right-click
+right-clicked
+right-clicking
+right-clicks
+ripgrep
+risk
 roadblock
+roadblocks
 roadmap
+roadmaps
+robotics
+rogue
 rogue access point
-rogue cell tower
-roll back
+rogue cell tower 
+roll back 
 rollback
 root
 rootkit
+rpcbind
 rsh
 ruleset
+ruleset's
 rulesets
 run-time
 runas
@@ -1535,82 +3119,144 @@ runtime
 safelist
 safelisted
 safelisting
-salami slicing attack
-same-origin policy
-sandbox environment
-sandbox escape
+safelists
+salami slicing attack 
+salt
+salted
+same-origin
+sandbox
 sandboxed
+sandboxes
 sandboxing
+sanitized
+scale sets
 scannability
 scannable
-scope creep
-screen time
+sci-fi
+science fiction
+scope
+scope creep 
+scrape
+scraping
+screen time 
 screen-capture
+screen-captured
+screen-captures
+screen-capturing
+screen-sharing
 screencap
+screencaps
 screensaver
 screensavers
 screenshot
 screenshots
-script code
+script
+script code 
 scripting
+scriptkiddie
+scriptkiddies
+scroll
 scrum
+scrummed
+scrumming
+scrums
 scrypt
+sealioning
 second-order
-secure boot
-security breach
-security controls
-security key
-security questions
-security through obscurity
+secure boot 
+security breach 
+security controls 
+security key 
+security questions 
+security through obscurity 
+seed
 seeded
 seeding
+segmentation
+segue
 self-driving
 self-generated
+selfie
+semver
 serialization
+server
 server-side
+servers
 servlet
 servlets
 servo
 servos
-session fixation
+session fixation 
+set-top
 setup
 setups
-sharing economy
-shell script
+sharing economy 
+shell
+shell script 
+shellcode
+shelve
 short-name
 short-term
 shortener
+shoulder surfing
+shruggie
+shruggies
 sign-in
+sign-ins
 sign-out
+sign-outs
 signal-boost
 signal-boosted
+signal-boosting
 signal-boosts
 signal-to-noise
+signature
 signed long
 signup
+signups
 silo
 siloed
 silos
 sink-to-source
+sinkholed
+sinkholes
 sinkholing
-site map
+site
+site map 
 skeuomorph
-skill set
+skeuomorphs
+skill set 
+slash
 slideshow
-smart lock
-smart safe
+slug
+smart lock 
+smart safe 
 smartglasses
 smartphone
+smartphones
 smartwatch
+smartwatches
+sniff
+sniffer
 snippet
 social engineering
-social media
-soft skills
-soft token
-solid state
+social media 
+soft skills 
+soft token 
+solder
+soldered
+soldering
+solders
+solid state 
+soundbite
+soundbites
 source code
 spacebar
 spacetime
+spam
+spear-phish
+spear-phished
+spear-phishes
 spear-phishing
 speedrun
 speedrunning
@@ -1619,171 +3265,377 @@ spell check
 spellcheck
 spellchecked
 spellchecking
-sphere of control
+spellchecks
+sphere of control 
 spidered
 spidering
-splash page
+splash page 
 split tunneling
+spoof
+spoof's
+spoofed
 spoofing
+spoofs
+springboard
+springboards
+sprint
+spudger
+spudgers
 spyware
 sqlmap
+squatting
 stack canaries
 stack trace
 stageless
+stakeholder
 start up
 startup
+startups
 stateful
 stateless
+status
+statuses
+steganographic
 steganography
 sticky cookie
+stockholder
+stompdiggity
+stream
 streamed
 streaming
+stress-test
+stress-tested
+stress-testing
+stress-tests
 string extraction
-string literal
+string literal 
+stuffing
+su
 subdirectories
+subdirectories'
 subdirectory
+subdirectory's
 subdomain
+subdomain's
 subdomains
+subdomains'
 subkey
+subkey's
+subkeys
+subkeys'
 subnet
+subnet's
 subnets
+subnets'
 subreddit
+subreddit's
+subreddits
+subreddits'
 subsection
 subsystem
+subsystem's
 subsystems
+subsystems'
+subtweet
+subversion
 subvert
 sudo
 sudoer
+sudoers
+sunset
+sunsets
+sunsetted
+sunsetting
 super admin
 superadmin
+superadmin's
+superadmins
+superclass
 superclasses
 superuser
-surveillance software
+superuser's
+superusers
+surveillance
+surveillance software 
+sweepstakes
+sync
+synced
+syncing
+syncs
 sysadmin
+sysadmin's
+sysadmins
 syslog
-system on chip
-table-top modeling
+syslog's
+syslogs
+system on chip 
+systematically
+systemic
+systemically
+systems
+table-top
+table-top modeling 
+tabnabbing
 tag stripping
-tail of the file
+tail of the file 
+tailgate
 tailgated
 tailgating
-take over
+tailor
+taint
+take over 
+takeaway
 takeover
+takeovers
+tamper-evident
+tar
+tarball
+tarball's
+tarballs
+target
+tarpit
+tarpits
+tarpitted
 tarpitting
 tech-savvy
+teledildonics
+telemedicine
 telephony
 teleprompter
-test bed
-text box
+terminate
+test bed 
+text box 
 tgrep
+the Borg
+the Doomsday Clock
+the singularity
 thick client
 thin client
 third-party
 threat hunting
 threat modeling
+threw
+throughout
 throughput
+throw
+thrown
 tikzpeople
 tilde
-time out
-time zone
+time out 
+time zone 
 time-boxed
 time-lapse
 timeframe
+timeframes
 timeline
 timeout
+timeouts
 timestamp
+timestamps
+tinner
+tip tinner
 tokenization
 tokenize
 tokenized
+tokenizes
 tokenizing
+tokens
 toolbar
+toolbars
 toolchain
+toolchains
+toolkit
+tooltip
 torrent
+torrented
+torrenting
+torrents
 touchpad
+touchpad's
+touchpads
 touchscreen
+touchscreen's
+touchscreens
 traceback
+traceback's
+tracebacks
+transportation
 trapdoor
-trend line
+traversal
+trend line 
 triage
 trigger
 trim range
-trim value
+trim value 
+tripwire
+tripwires
+trivial
 trojan
+troll
+trolled
+trolling
+trophy
 troubleshoot
+truncation
 trust boundary
+truthiness
 try-catch
+tunneling
 tvOS
+tvOS's
 tweet
 tweeted
 tweeting
+twitch.tv
+two-factor
 two-factor authentication
+typography
+typosquat
+typosquats
+typosquatted
+typosquatter
 typosquatting
+uncached
+uncanny
 uncredentialed
+unicorn
+unminified
+unminify
+unminifying
+unobfuscated
 unpickle
 unpickled
+unpickles
 unpickling
 unremediated
 unsanitized
 unserialize
 unserialized
+unserializes
+unserializing
 unvalidated
 up-to-date
+upload
+uppercase
+uppercased
+uppercasing
 uptime
+upvote
+upvoted
+upvotes
+upvoting
 use after free
 use-after-free
 user base
 user-supplied
-verb tunneling
+usernames
+vBulletin
+vendor
+verb tunneling 
 verbose
+via
+victim
 videoconferencing
+viral
+virtual
 virtual reality
+virtualization
+virtualize
+virtualized
+virtualizes
+virtualizing
+virus
+vlog
+vlogged
+vlogging
+vlogs
+voicemail
 vuln
-vulnerability scan
-vulnerability scanner
+vuln's
+vulnerability
+vulnerability scan 
+vulnerability scanner 
+vulnerable
 vulns
-war gaming
+war gaming 
 war-dialing
 war-driving
 wasm
 watch list 
+watermark
+watermarked
+watermarking
+watermarks
 web application 
 web browser
-web console
-web directory
-web forum
-web page
-web proxy
-web root
-web server
+web console 
+web directory 
+web forum 
+web page 
+web proxy 
+web root 
+web server 
+web view
+web views
 web-based
+web.config
 webcam
 webcams
 webcomic
+webcomic's
 webcomics
 webhook
+webhook's
 webhooks
 webinar
+webinar's
+webinars
 webshell
+webshell's
+webshells
 website
+webtree
+webtrees
 weeklong
 well-formed
+what3words
 white list
+white-box
 white-box testing
 whitelist
 whitelisted
 whitelisting
+whitelists
 whitepaper
+whitepaper's
+whitepapers
 whoami
 whois
-whole disk encryption
+whole disk encryption 
+widescreen
+widgets
 wiki
+wiki's
+wikis
+wildcards
 wiretap
-word processor
-work stream
+wiretapped
+wiretapping
+wiretaps
+word processor 
+work stream 
 workflow
+workflows
 world-readable
 world-writable
 write-only
+www
+x64
 x86
 xDedic
+xkcd
+ysoserial
+ysoserial's
 zero-day
+zero-trust
+zxcvbn
