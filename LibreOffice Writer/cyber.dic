@@ -481,7 +481,6 @@ ESXi
 ETA
 ETH
 EULA
-EXSi
 Elastic
 Elastic Stack
 Elasticfox
@@ -923,7 +922,7 @@ MSS
 MSSQL
 MTurk
 MVC
-Mac OS X 
+Mac OS X
 MacBook
 Macbooks
 Macs
@@ -1063,7 +1062,7 @@ P2P
 PABX
 PABX's
 PAN
-PAN truncation 
+PAN truncation
 PAN's
 PANs
 PASTA
@@ -1086,7 +1085,7 @@ PERSEC
 PGP
 PHI
 PHP
-PHP magic methods 
+PHP magic methods
 PHR
 PID
 PII
@@ -1251,7 +1250,7 @@ Ryuk
 Ryuk's
 S3
 S3 bucket
-S3 buckets 
+S3 buckets
 SAM
 SAML
 SAML's
@@ -1513,7 +1512,7 @@ TTP's
 TTPs
 TW
 Tastic
-Tastic RFID Thief 
+Tastic RFID Thief
 Tectia
 Tectia SSH
 Telemetry
@@ -1578,7 +1577,7 @@ URI
 URI's
 URIs
 URL
-URL encoding 
+URL encoding
 URL's
 URL-encoded
 URL-shortening
@@ -2121,7 +2120,7 @@ content injection
 content spoofing
 content type
 cookie poisoning
-cookie security 
+cookie security
 cooperate
 coordinate
 copycat
@@ -2187,7 +2186,7 @@ daisy-chained
 daisy-chaining
 daisy-chains
 dark net
-data center 
+data center
 data files
 data handling
 data set
@@ -2217,7 +2216,7 @@ decompile
 decompiled
 decompiles
 decompiling
-deep learning 
+deep learning
 deep-dive
 deepfake
 deepfakes
@@ -2329,7 +2328,7 @@ echo request
 edge case
 egress
 egress filtering
-egress testing 
+egress testing
 elevation of privileges
 email
 email spoofing
@@ -2365,7 +2364,7 @@ environment
 espionage
 esports
 etcd
-evil twin 
+evil twin
 evil twin attack
 exabyte
 exabytes
@@ -2378,8 +2377,8 @@ exfiltrated
 exfiltrates
 exfiltrating
 exploit
-exploit chain 
-exploit video 
+exploit chain
+exploit video
 exposed
 eye-tracking
 facepalm
@@ -2398,7 +2397,7 @@ fat-finger
 fat-fingered
 fat-fingering
 fat-fingers
-file paths 
+file paths
 file share
 file size
 file stores
@@ -2445,7 +2444,7 @@ four-way
 four-way handshake
 fps
 frame busting
-frame rate 
+frame rate
 frameable
 framework
 frameworks
@@ -2467,7 +2466,7 @@ fuzzer
 fuzzes
 fuzzing
 gRPC
-game jam 
+game jam
 gateway
 gems
 geocache
@@ -2632,7 +2631,7 @@ infiltrate
 influencer
 info-sec
 infodump
-information superhighway 
+information superhighway
 infosec
 ingestor
 ingestors
@@ -2672,7 +2671,7 @@ kHz
 keepalive
 keepalives
 kernel
-kernel panic 
+kernel panic
 kerning
 kernings
 key pair
@@ -2759,9 +2758,9 @@ lockout
 lockout policy
 lockouts
 log file
-log files 
+log files
 log in
-log out 
+log out
 logged-in
 login
 logins
@@ -2804,7 +2803,7 @@ matrix
 meatspace
 media
 meme
-message board  
+message board
 metacharacter
 metacharacter's
 metacharacters
@@ -2875,7 +2874,7 @@ north-south
 nosniff
 npm
 null
-null byte 
+null byte
 obfuscation
 oclHashcat
 off-by-one
@@ -2922,7 +2921,7 @@ overhedging
 page-hijacking
 parameterize
 parameterized
-parameterized queries 
+parameterized queries
 parameterizes
 parameterizing
 parse
@@ -2938,12 +2937,12 @@ passwords
 pastebin
 patch
 patch cycle
-path traversal 
+path traversal
 payload
 paywall
 paywalls
 peer-to-peer
-pen testing  
+pen testing
 peripherals
 persistence
 persistent
@@ -2975,7 +2974,7 @@ plain text
 plaintext
 playbook
 playlist
-plug in 
+plug in
 plugin
 plugins
 podcasts
@@ -2988,8 +2987,8 @@ ports
 post
 post-apocalyptic
 post-exploitation
-power cycle 
-power user 
+power cycle
+power user
 pre-signed
 preflight
 preflighted
@@ -3006,7 +3005,7 @@ printout
 printouts
 privacy protection
 privesc
-privilege escalation 
+privilege escalation
 prod
 proof-of-concept
 provision
@@ -3014,11 +3013,11 @@ proxied
 proxies
 proxy
 proxying
-public address spaces 
+public address spaces
 public key
 public-facing
-publicly known 
-purple team 
+publicly known
+purple team
 purpose-built
 pwdump
 pwn
@@ -3027,12 +3026,12 @@ pwning
 pwns
 px
 query
-query string 
+query string
 queue
-race condition 
-rainbow table 
+race condition
+rainbow table
 ransomware
-rate limiting 
+rate limiting
 rate-limit
 rcp
 reCAPTCHA
@@ -3042,7 +3041,7 @@ readme
 readmes
 real-time
 red team
-red teaming 
+red teaming
 redditor
 redditors
 reflect
@@ -3076,8 +3075,8 @@ retweeted
 retweeting
 retweets
 reuse
-reverse engineering 
-reverse proxy 
+reverse engineering
+reverse proxy
 reverse-engineer
 reverse-engineered
 reverse-engineering
@@ -3103,8 +3102,8 @@ roadmaps
 robotics
 rogue
 rogue access point
-rogue cell tower 
-roll back 
+rogue cell tower
+roll back
 rollback
 root
 rootkit
@@ -3120,7 +3119,7 @@ safelist
 safelisted
 safelisting
 safelists
-salami slicing attack 
+salami slicing attack
 salt
 salted
 same-origin
@@ -3135,10 +3134,10 @@ scannable
 sci-fi
 science fiction
 scope
-scope creep 
+scope creep
 scrape
 scraping
-screen time 
+screen time
 screen-capture
 screen-captured
 screen-captures
@@ -3151,7 +3150,7 @@ screensavers
 screenshot
 screenshots
 script
-script code 
+script code
 scripting
 scriptkiddie
 scriptkiddies
@@ -3163,12 +3162,12 @@ scrums
 scrypt
 sealioning
 second-order
-secure boot 
-security breach 
-security controls 
-security key 
-security questions 
-security through obscurity 
+secure boot
+security breach
+security controls
+security key
+security questions
+security through obscurity
 seed
 seeded
 seeding
@@ -3186,13 +3185,13 @@ servlet
 servlets
 servo
 servos
-session fixation 
+session fixation
 set-top
 setup
 setups
-sharing economy 
+sharing economy
 shell
-shell script 
+shell script
 shellcode
 shelve
 short-name
@@ -3222,15 +3221,15 @@ sinkholed
 sinkholes
 sinkholing
 site
-site map 
+site map
 skeuomorph
 skeuomorphs
-skill set 
+skill set
 slash
 slideshow
 slug
-smart lock 
-smart safe 
+smart lock
+smart safe
 smartglasses
 smartphone
 smartphones
@@ -3240,14 +3239,14 @@ sniff
 sniffer
 snippet
 social engineering
-social media 
-soft skills 
-soft token 
+social media
+soft skills
+soft token
 solder
 soldered
 soldering
 solders
-solid state 
+solid state
 soundbite
 soundbites
 source code
@@ -3266,10 +3265,10 @@ spellcheck
 spellchecked
 spellchecking
 spellchecks
-sphere of control 
+sphere of control
 spidered
 spidering
-splash page 
+splash page
 split tunneling
 spoof
 spoof's
@@ -3308,7 +3307,7 @@ stress-tested
 stress-testing
 stress-tests
 string extraction
-string literal 
+string literal
 stuffing
 su
 subdirectories
@@ -3356,7 +3355,7 @@ superuser
 superuser's
 superusers
 surveillance
-surveillance software 
+surveillance software
 sweepstakes
 sync
 synced
@@ -3368,22 +3367,22 @@ sysadmins
 syslog
 syslog's
 syslogs
-system on chip 
+system on chip
 systematically
 systemic
 systemically
 systems
 table-top
-table-top modeling 
+table-top modeling
 tabnabbing
 tag stripping
-tail of the file 
+tail of the file
 tailgate
 tailgated
 tailgating
 tailor
 taint
-take over 
+take over
 takeaway
 takeover
 takeovers
@@ -3403,8 +3402,8 @@ telemedicine
 telephony
 teleprompter
 terminate
-test bed 
-text box 
+test bed
+text box
 tgrep
 the Borg
 the Doomsday Clock
@@ -3421,8 +3420,8 @@ throw
 thrown
 tikzpeople
 tilde
-time out 
-time zone 
+time out
+time zone
 time-boxed
 time-lapse
 timeframe
@@ -3462,11 +3461,11 @@ tracebacks
 transportation
 trapdoor
 traversal
-trend line 
+trend line
 triage
 trigger
 trim range
-trim value 
+trim value
 tripwire
 tripwires
 trivial
@@ -3531,7 +3530,7 @@ user-supplied
 usernames
 vBulletin
 vendor
-verb tunneling 
+verb tunneling
 verbose
 via
 victim
@@ -3553,28 +3552,28 @@ voicemail
 vuln
 vuln's
 vulnerability
-vulnerability scan 
-vulnerability scanner 
+vulnerability scan
+vulnerability scanner
 vulnerable
 vulns
-war gaming 
+war gaming
 war-dialing
 war-driving
 wasm
-watch list 
+watch list
 watermark
 watermarked
 watermarking
 watermarks
-web application 
+web application
 web browser
-web console 
-web directory 
-web forum 
-web page 
-web proxy 
-web root 
-web server 
+web console
+web directory
+web forum
+web page
+web proxy
+web root
+web server
 web view
 web views
 web-based
@@ -3611,7 +3610,7 @@ whitepaper's
 whitepapers
 whoami
 whois
-whole disk encryption 
+whole disk encryption
 widescreen
 widgets
 wiki
@@ -3622,8 +3621,8 @@ wiretap
 wiretapped
 wiretapping
 wiretaps
-word processor 
-work stream 
+word processor
+work stream
 workflow
 workflows
 world-readable
