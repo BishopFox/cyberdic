@@ -1,3 +1,5 @@
+![cyber.dic](./assets/logo.png "cyber.dic logo")
+
 # cyber.dic
 
 This is the companion dictionary of the [Cybersecurity Style Guide](https://www.bishopfox.com/cybersecurity-style-guide/). The cyber.dic dictionary file can be added to your word processor to augment its standard spellcheck list. This is a resource for anyone who regularly writes about tech and is not a fan of the red underline that plagues any highly technical document.
