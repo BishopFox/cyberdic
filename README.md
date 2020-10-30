@@ -1,4 +1,4 @@
-![cyber.dic](./assets/logo.png "cyber.dic logo")
+![cyber.dic](./assets/logo.jpg "cyber.dic logo")
 
 # cyber.dic
 
