@@ -2,7 +2,7 @@
 
 ## Dictionary Install 
 
-1. Download [cyber.dic](./cyber.dic) from GitHub and save it in a permanent location.
+1. Download [cyber.dic](./cyber.dic) and save it in a permanent location. (Access the [cyber.dic](./cyber.dic) file on GitHub, select **Raw**, and press **Cmd**+**S** to download it directly to your computer.)
 
 2. Open a Word document. In the Word menu, select **Preferences** > **Spelling & Grammar**. Uncheck the following:
 

@@ -2,8 +2,8 @@
 
 ## Dictionary Install
 
-1. Download [cyber.dic](./cyber.dic) from GitHub and save it in a permanent location.  
-    By default, Microsoft custom dictionaries are stored at the path: `C:\Users\[user]\AppData\Roaming\Microsoft\UProof`
+1. Download [cyber.dic](./cyber.dic) and save it in a permanent location. (Access the [cyber.dic](./cyber.dic) file on GitHub, select **Raw**, and press **Ctrl**+**S** to download it directly to your computer.)  
+    We suggest storing the file in the default location that Microsoft uses for custom dictionaries: `C:\Users\[user]\AppData\Roaming\Microsoft\UProof`
 
 2. In Word, go to **File** > **Options** > **Proofing** > **When correcting spelling** and uncheck:
     - Ignore words in UPPERCASE
@@ -23,9 +23,9 @@
 
 2. Find the correct exclusion file for the version of English you use. For example, in Word 2016, U.S. English has the code 0409, and the file is named `ExcludeDictionaryEN0409.lex`.
 
-    **Note:** These files are automatically pulled, so you cannot change the name or move them.
+    **Note:** Word automatically accesses these files, so you cannot change the name or move them.
 
-3. Once you have identified the existing file, open it in a plaintext editor. Copy/paste our exclusion word list into the file and save it.
+3. Once you have identified the existing exclusion file, open it in a plaintext editor. Copy/paste our exclusion word list into the file and save it.
 
 4. Restart Word.
 
